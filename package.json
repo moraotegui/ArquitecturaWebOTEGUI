@@ -1,0 +1,27 @@
+{
+  "name": "gestor-veterinaria",
+  "version": "1.0.0",
+  "description": "Gestor de turnos para veterinaria - TP Arquitectura Web",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "veterinaria",
+    "api",
+    "nodejs"
+  ],
+  "author": "Mora Otegui",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.19.2",
+    "morgan": "1.10.0",
+    "cors": "2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.4"
+  }
+}
