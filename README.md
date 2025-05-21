@@ -41,5 +41,22 @@ Gestor de turnos veterinarios
   - PUT /mascotas/:id
   - DELETE /mascotas/:id
 
+otra opcion
+
+La pagina de exposición de obras, con ventas
+Obra:
+Nombre: String
+Fecha de Creación: int
+Descripción: String
+Precio: double
+Imagen: String
+Categoria: String
+CrearObra
+BorrarObra
+ModificarObra
+ObtenerPorNombre
+ObtenerTodasObras
+BuscarObraPorCategoria
+FiltrarPorPrecio
 
 
